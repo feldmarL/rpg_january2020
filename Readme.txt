@@ -1,3 +1,5 @@
+File containing main method to launch the game is GameMain.java
+
 You can move using :
 z or w to go upper.
 s to go lower.
