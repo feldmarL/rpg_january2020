@@ -6,15 +6,15 @@ s to go lower.
 a or q to go left.
 d to go right.
 
-Enemys constantly move to your position and they are ghosts so they can go through walls.
+Enemies constantly move to your position and they are ghosts so they can go through walls.
 
-To win you have to defeat all enemys.
+To win you have to defeat all enemies.
 
-Yo lose if you die.
+You lose if you die.
 
-You can use spacebar to put a rune on where you are and enemys will be damaged by a third of their life (signle utilisation per rune, only one enemy damaged).
+You can use spacebar to put a rune on where you are and enemies will be damaged by a third of their life (single utilisation per rune, only one enemy damaged).
 
-Manage map using map forlder :
+Manage map using map folder :
 Map can only be a square so beware to do it right.
 1 : wall.
 0 : ground / grass.
